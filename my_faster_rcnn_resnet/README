@@ -1,2 +1,5 @@
 Due to github restrictions on file size,
 checkpoints for this model are not included.
+
+This model is generated based on the faster-rcnn model
+from Tensorflow Object Detection Model Zoo.  
